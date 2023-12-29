@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_polindrome">Palindrome</string>
+    <string name="btn_check">CHECK</string>
+    <string name="btn_next">NEXT</string>
+    <string name="isPalindrome">Text is Palindrome</string>
+    <string name="notPalindrome">Text is Not Palindrome</string>
+    <string name="ok_text">OK</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">User</string>
+    <string name="select_user">Selected User Name</string>
+    <string name="choose_user">Choose a User</string>
+    <string name="first_name">Firstname</string>
+    <string name="last_name">LastName</string>
+    <string name="full_name">%1$s %2$s</string>
+    <string name="email">email@gmail.com</string>
+</resources>
